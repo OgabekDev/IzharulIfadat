@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Изҳарул ифадат</string>
+    <string name="kirish">Кириш</string>
+    <string name="akida">Ақида боби</string>
+    <string name="poklik">Поклик боби</string>
+    <string name="nomoz">Намоз боби</string>
+    <string name="zakot">Закот боби</string>
+    <string name="roza">Рўза боби</string>
+    <string name="haj">Ҳаж боби</string>
+    <string name="muomalat">Муомалат</string>
+    <string name="qalb_vojiblari">Қалб вожиби</string>
+    <string name="gunohlar">Гуноҳлар</string>
+    <string name="tavba">Тавба боби</string>
+    <string name="dualar">Дуолар</string>
+    <string name="sozlamalar">Созламалар</string>
+    <string name="til">Тил</string>
+    <string name="tungi_rejim">Тунги режим</string>
+    <string name="marta">марта</string>
+    <string name="tasbih_qoshish">Тасбеҳ қўшиш</string>
+    <string name="tasbehlar">Тасбеҳлар</string>
+    <string name="zikrni_kiriting">Зикрни киритинг</string>
+    <string name="kiritish">Киритиш</string>
+    <string name="darslik">дарслик</string>
+    <string name="izoh">Изоҳ</string>
+    <string name="tasbih">Тасбеҳ</string>
+    <string name="tasbih_title" translatable="false">سُبْحَانَ ٱللَّٰهِ</string>
+    <string name="krill" translatable="false">Крилл</string>
+    <string name="lotin" translatable="false">Lotin</string>
+    <string name="create_error">Тасбеҳ яратишда хатолик рой берди. Илтимос қайта уриниб кўринг</string>
+    <string name="delete_error">Тасбеҳни ўчиришда хатолик рой берди. Илтимос қайта уриниб кўринг</string>
+    <string name="error_min_lenth">Камида 3 та ҳарфдан иборат бўлиши керак</string>
+    <string name="downloading">Юкланмоқда</string>
+    <string name="err_internet">Сизда интернет мавжуд эмас. Илтимос интернет билан киришга ҳаракат қилинг.</string>
+    <string name="err_permission">Сиз рухсатларни бутунлай рад этдингиз. Аудиони тинглаш учун фойдаланишга рухсат беринг. Буни илова созламаларидан қилишингиз мумкин</string>
+    <string name="accept_permission">Рухсат бериш</string>
+    <string name="info_permission">Аудио файлларни телефон хотирасида сақлаш ва ундан фойдаланиш учун бизга рухсат керак. Илтимос, Телефон хотирасидан фойдаланишимизга рухсат беринг.</string>
+    <string name="info_permission_declined">Сиз рухсат беришдан бош тортингиз. Биз сизнинг рухсатингизсиз дастурни ишга тушира олмаймиз. Бизга рухсат беришингизни сўраймиз. Сизнинг маълумотларингиз хавфсизлиги таъминланади.</string>
+    <string name="info_permission_perm_dec">Сиз рухсат беришдан бутунлайин бош тортингиз. Биз сизнинг рухсатингизсиз дастурни ишга тушира олмаймиз. Рухсат беришни дастур созламалари орқали амалга оширинг</string>
+</resources>

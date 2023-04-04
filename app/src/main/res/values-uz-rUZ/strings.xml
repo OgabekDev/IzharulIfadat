@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Izharul Ifadat</string>
+    <string name="kirish">Kirish</string>
+    <string name="akida">Akida bobi</string>
+    <string name="poklik">Poklik bobi</string>
+    <string name="nomoz">Nomoz bobi</string>
+    <string name="zakot">Zakot bobi</string>
+    <string name="roza">Ro\'za bobi</string>
+    <string name="haj">Xaj bobi</string>
+    <string name="muomalat">Muomalat</string>
+    <string name="qalb_vojiblari">Qalb vojiblari</string>
+    <string name="gunohlar">Gunohlar</string>
+    <string name="tavba">Tavba bobi</string>
+    <string name="dualar">Duolar</string>
+    <string name="sozlamalar">Sozlamalar</string>
+    <string name="til">Til</string>
+    <string name="tungi_rejim">Tungi rejim</string>
+    <string name="marta">marta</string>
+    <string name="tasbih_qoshish">Tasbeh qo\'shish</string>
+    <string name="tasbehlar">Tasbehlar</string>
+    <string name="zikrni_kiriting">Zikrni kiriting</string>
+    <string name="kiritish">Kiritish</string>
+    <string name="darslik">Darslik</string>
+    <string name="izoh">Izoh</string>
+    <string name="tasbih">Tasbeh</string>
+    <string name="create_error">Tasbeh yaratishda xatolik roy berdi. Iltimos qayta urinib ko\'ring</string>
+    <string name="delete_error">Tasbehni o‘chirishda xatolik roy berdi. Iltimos qayta urinib ko‘ring</string>
+    <string name="error_min_lenth">Kamida 3 ta harfdan iborat bo‘lishi kerak</string>
+    <string name="downloading">Yuklanmoqda</string>
+    <string name="err_internet">Sizda internet mavjud emas. Iltimos internet bilan kirishga harakat qiling.</string>
+    <string name="err_permission">Siz ruxsatlarni butunlay rad etdingiz. Audioni tinglash uchun foydalanishga ruxsat bering. Buni ilova sozlamalaridan qilishingiz mumkin</string>
+    <string name="info_permission">Audio fayllarni telefon xotirasida saqlash va undan foydalanish uchun bizga ruxsat kerak. Iltimos, Telefon xotirasidan foydalanishimizga ruxsat bering.</string>
+    <string name="accept_permission">Ruxsat berish</string>
+    <string name="info_permission_declined">Siz ruxsat berishdan bosh tortingiz. Biz sizning ruxsatingizsiz dasturni ishga tushira olmaymiz. Bizga ruxsat berishingizni so‘raymiz. Sizning maʼlumotlaringiz xavfsizligi taʼminlanadi.</string>
+    <string name="info_permission_perm_dec">Siz ruxsat berishdan butunlayin bosh tortingiz. Biz sizning ruxsatingizsiz dasturni ishga tushira olmaymiz. Ruxsat berishni dastur sozlamalari orqali amalga oshiring</string>
+</resources>
