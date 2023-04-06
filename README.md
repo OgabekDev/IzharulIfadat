@@ -1,6 +1,6 @@
 # Izharul Ifadat
 
-<img src="https://user-images.githubusercontent.com/91304483/230301702-77d4a978-7aa2-4dc7-8ceb-0dd64039ea8f.png" />
+<img src="https://user-images.githubusercontent.com/91304483/230301702-77d4a978-7aa2-4dc7-8ceb-0dd64039ea8f.png" width="256" height="256" />
 
 Izharul Ifadat is a mobile application that provides users with an in-depth understanding of the 10 main chapters of Islam through audio lectures and dua (prayer) recitation. This app is designed to help users deepen their knowledge and connection to the Islamic faith in a convenient and accessible way. With its user-friendly interface and comprehensive content, Izharul Ifadat has become a valuable resource for those seeking to strengthen their faith and deepen their understanding of Islam.
 
