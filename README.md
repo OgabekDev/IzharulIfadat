@@ -51,7 +51,7 @@ Something not working quite as expected? Do you need a feature that has not been
 * Open project in Android Studio.
 * Run 'app' `SHIFT+F10`
 
-### Buy me a coffee 🙏🥺
+### Buy me a coffee 🙏
 * [Buy me a coffee ☕️](https://www.buymeacoffee.com/OgabekDev)
 
 ### Feel free to get in touch (send me a offer 😇)
