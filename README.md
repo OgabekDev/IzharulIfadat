@@ -54,7 +54,7 @@ Something not working quite as expected? Do you need a feature that has not been
 ### Buy me a coffee
 * [Buy me a coffee ☕️](https://www.buymeacoffee.com/OgabekDev)
 
-### Feel free get in touch (send me a offer 😇)
+### Feel free to get in touch (send me a offer 😇)
 * [Telegram](https://www.t.me/Ogabek_Dev)
 * [Instagram](https://www.instagram.com/OgabekDev)
 * [Facebook](https://www.facebook.com/OgabekDev)
