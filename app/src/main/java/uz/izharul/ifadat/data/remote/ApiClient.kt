@@ -4,8 +4,8 @@ object ApiClient {
 
     private const val IS_TESTER = true
 
-    private const val SERVER_DEVELOPMENT = "https://mdev.uz/api/v1/mobile/izharul-ifodat/"
-    private const val SERVER_PRODUCTION = "https://mdev.uz/api/v1/mobile/izharul-ifodat/"
+    private const val SERVER_DEVELOPMENT = "BASE_URL"
+    private const val SERVER_PRODUCTION = "BASE_URL"
 
     fun server(): String {
         return if (IS_TESTER)
